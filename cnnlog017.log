@@ -1,0 +1,3 @@
+INFO:root:time: 0margin: 1 batchSize: 32 dropOut: 0.3 learnRate: 0.0005 SVM REG: 10
+INFO:root:time: 0margin: 1 batchSize: 32 dropOut: 0.2 learnRate: 0.05 SVM REG: 1
+INFO:root:time: 0margin: 1 batchSize: 64 dropOut: 0.01 learnRate: 0.2 SVM REG: 1
